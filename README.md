@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MrGabrielko
 - 👀 I’m interested in programming xd
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning C++ and Python
 - 💞️ I’m looking to collaborate on small projects
 - 📫 How to reach me ... :)
 
